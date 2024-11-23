@@ -1,3 +1,5 @@
 # My-intro
 random profile generatior
 hey there
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
